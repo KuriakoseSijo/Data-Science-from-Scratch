@@ -7,6 +7,7 @@ Created on Mon Jul 27 13:29:12 2020
 """
 import sys
 sys.path.append('/Users/sijokuriakose/Desktop/Data Science/data-science-from-scratch-master/scratch')
+
 from collections import Counter
 import matplotlib.pyplot as plt
 from linear_algebra import distance, vector_mean
